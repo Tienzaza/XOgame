@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "559799420583",
+    "project_id": "tictactoe-131e1",
+    "storage_bucket": "tictactoe-131e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:559799420583:android:978ff153c8eda474acbd82",
+        "android_client_info": {
+          "package_name": "com.example.xogame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm66_OMDhfqobmSM7Ib_ZBErn_6mMzJx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
